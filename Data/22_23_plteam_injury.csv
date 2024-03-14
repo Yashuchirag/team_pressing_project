@@ -1,0 +1,508 @@
+Team_Name,Player_Name,Position,Games_injured
+Arsenal,Aaron Ramsdale,GK,0
+Arsenal,Matt Turner,GK,1
+Arsenal,Karl Hein,GK,33
+Arsenal,James Hillson,GK,23
+Arsenal,William Saliba,CB,11
+Arsenal,Gabriel Magalhães,CB,0
+Arsenal,Jakub Kiwior,CB,1
+Arsenal,Auston Trusty,CB,0
+Arsenal,Rob Holding,CB,0
+Arsenal,Oleksandr Zinchenko,LB,11
+Arsenal,Kieran Tierney,LB,0
+Arsenal,Lino Sousa,LB,13
+Arsenal,Ben White,RB,0
+Arsenal,Takehiro Tomiyasu,RB,14
+Arsenal,Reuell Walters,RB,14
+Arsenal,Cédric Soares,RB,7
+Arsenal,Thomas Partey,DM,5
+Arsenal,Granit Xhaka,DM,1
+Arsenal,Jorginho,DM,0
+Arsenal,Mohamed Elneny,DM,29
+Arsenal,Bradley Ibrahim,DM,16
+Arsenal,Albert Sambi Lokonga,CM,1
+Arsenal,Cătălin Cîrjan,CM,17
+Arsenal,Matt Smith,CM,15
+Arsenal,Mauro Bandeira,CM,13
+Arsenal,Ainsley Maitland-Niles,RM,5
+Arsenal,Martin Ødegaard,AM,1
+Arsenal,Fábio Vieira,AM,2
+Arsenal,Emile Smith Rowe,AM,15
+Arsenal,Ethan Nwaneri,AM,9
+Arsenal,Gabriel Martinelli,LW,2
+Arsenal,Leandro Trossard,LW,0
+Arsenal,Charles Sagoe Jr,LW,11
+Arsenal,Bukayo Saka,RW,0
+Arsenal,Reiss Nelson,RW,16
+Arsenal,Nicolas Pépé,RW,1
+Arsenal,Marquinhos,RW,0
+Arsenal,Amario Cozier-Duberry,RW,9
+Arsenal,Gabriel Jesus,CF,12
+Arsenal,Eddie Nketiah,CF,5
+Arsenal,Khayon Edwards,CF,24
+Arsenal,Nathan Butler-Oyedeji,CF,4
+Manchester City,Ederson,GK,0
+Manchester City,Stefan Ortega,GK,0
+Manchester City,Zack Steffen,GK,0
+Manchester City,Scott Carson,GK,33
+Manchester City,Rúben Dias,CB,6
+Manchester City,Manuel Akanji,CB,3
+Manchester City,Nathan Aké,CB,8
+Manchester City,John Stones,CB,9
+Manchester City,Aymeric Laporte,CB,11
+Manchester City,Luke Mbete,CB,2
+Manchester City,Sergio Gómez,LB,4
+Manchester City,Josh Wilson-Esbrand,LB,4
+Manchester City,Benjamin Mendy,LB,38
+Manchester City,João Cancelo,RB,0
+Manchester City,Rico Lewis,RB,0
+Manchester City,Kyle Walker,RB,6
+Manchester City,Rodri,DM,1
+Manchester City,Kalvin Phillips,DM,11
+Manchester City,Shea Charles,DM,7
+Manchester City,Máximo Perrone,DM,9
+Manchester City,Claudio Gomes,DM,3
+Manchester City,İlkay Gündoğan,CM,0
+Manchester City,Bernardo Silva,AM,0
+Manchester City,Kevin De Bruyne,AM,3
+Manchester City,Cole Palmer,AM,7
+Manchester City,Alex Robertson,AM,15
+Manchester City,Nico O'Reilly,AM,15
+Manchester City,Jack Grealish,LW,5
+Manchester City,Phil Foden,RW,5
+Manchester City,Riyad Mahrez,RW,0
+Manchester City,Ben Knight,RW,23
+Manchester City,Julián Álvarez,SS,1
+Manchester City,Erling Haaland,CF,2
+Manchester City,Liam Delap,CF,1
+Manchester United,Dean Henderson,GK,0
+Manchester United,David de Gea,GK,0
+Manchester United,Matej Kovar,GK,5
+Manchester United,Jack Butland,GK,9
+Manchester United,Martin Dúbravka,GK,8
+Manchester United,Nathan Bishop,GK,30
+Manchester United,Radek Vitek,GK,17
+Manchester United,Tom Heaton,GK,15
+Manchester United,Lisandro Martínez,CB,11
+Manchester United,Raphaël Varane,CB,8
+Manchester United,Harry Maguire,CB,7
+Manchester United,Victor Lindelöf,CB,8
+Manchester United,Teden Mengi,CB,29
+Manchester United,Axel Tuanzebe,CB,20
+Manchester United,Phil Jones,CB,38
+Manchester United,Tyler Fredricson,CB,26
+Manchester United,Rhys Bennett,CB,25
+Manchester United,Luke Shaw,LB,3
+Manchester United,Tyrell Malacia,LB,1
+Manchester United,Álvaro Carreras,LB,0
+Manchester United,Brandon Williams,LB,28
+Manchester United,Diogo Dalot,RB,5
+Manchester United,Aaron Wan-Bissaka,RB,12
+Manchester United,Marc Jurado,RB,11
+Manchester United,Casemiro,DM,1
+Manchester United,Scott McTominay,DM,11
+Manchester United,James Garner,DM,2
+Manchester United,Marcel Sabitzer,CM,6
+Manchester United,Fred,CM,0
+Manchester United,Christian Eriksen,CM,9
+Manchester United,Donny van de Beek,CM,27
+Manchester United,Kobbie Mainoo,CM,17
+Manchester United,Zidane Iqbal,CM,19
+Manchester United,Bruno Fernandes,AM,0
+Manchester United,Hannibal,AM,4
+Manchester United,Shola Shoretire,AM,8
+Manchester United,Marcus Rashford,LW,3
+Manchester United,Alejandro Garnacho,LW,8
+Manchester United,Jadon Sancho,LW,8
+Manchester United,Anthony Elanga,LW,11
+Manchester United,Antony,RW,9
+Manchester United,Amad Diallo,RW,4
+Manchester United,Facundo Pellistri,RW,15
+Manchester United,Mason Greenwood,RW,38
+Manchester United,Cristiano Ronaldo,CF,2
+Manchester United,Anthony Martial,CF,17
+Manchester United,Wout Weghorst,CF,1
+Manchester United,Charlie McNeill,CF,4
+Newcastle,Nick Pope,GK,1
+Newcastle,Martin Dúbravka,GK,2
+Newcastle,Loris Karius,GK,24
+Newcastle,Karl Darlow,GK,13
+Newcastle,Mark Gillespie,GK,36
+Newcastle,Sven Botman,CB,0
+Newcastle,Fabian Schär,CB,1
+Newcastle,Jamaal Lascelles,CB,8
+Newcastle,Paul Dummett,CB,22
+Newcastle,Federico Fernández,CB,5
+Newcastle,Ciaran Clark,CB,0
+Newcastle,Kell Watts,CB,5
+Newcastle,Dan Burn,LB,0
+Newcastle,Matt Targett,LB,9
+Newcastle,Jamal Lewis,LB,16
+Newcastle,Kieran Trippier,RB,0
+Newcastle,Emil Krafth,RB,37
+Newcastle,Javier Manquillo,RB,10
+Newcastle,Harrison Ashby,RB,13
+Newcastle,Bruno Guimarães,DM,6
+Newcastle,Isaac Hayden,DM,0
+Newcastle,Joelinton,CM,2
+Newcastle,Joe Willock,CM,3
+Newcastle,Sean Longstaff,CM,5
+Newcastle,Lewis Miley,CM,17
+Newcastle,Jonjo Shelvey,CM,14
+Newcastle,Matty Longstaff,CM,26
+Newcastle,Jeff Hendrick,CM,0
+Newcastle,Matt Ritchie,RM,13
+Newcastle,Elliot Anderson,AM,4
+Newcastle,Anthony Gordon,LW,2
+Newcastle,Allan Saint-Maximin,LW,12
+Newcastle,Ryan Fraser,LW,22
+Newcastle,Miguel Almirón,RW,4
+Newcastle,Jacob Murphy,RW,1
+Newcastle,Alexander Isak,CF,13
+Newcastle,Callum Wilson,CF,6
+Newcastle,Chris Wood,CF,0
+liverpool,Alisson,GK,1
+liverpool,Caoimhín Kelleher,GK,8
+liverpool,Adrián,GK,26
+liverpool,Harvey Davies,GK,17
+liverpool,Ibrahima Konaté,CB,17
+liverpool,Virgil van Dijk,CB,5
+liverpool,Joe Gomez,CB,5
+liverpool,Joel Matip,CB,9
+liverpool,Jarell Quansah,CB,4
+liverpool,Sepp van den Berg,CB,0
+liverpool,Nathaniel Phillips,CB,19
+liverpool,Rhys Williams,CB,12
+liverpool,Luke Chambers,CB,4
+liverpool,Andrew Robertson,LB,3
+liverpool,Konstantinos Tsimikas,LB,1
+liverpool,Trent Alexander-Arnold,RB,0
+liverpool,Calvin Ramsay,RB,32
+liverpool,Fabinho,DM,2
+liverpool,Arthur Melo,DM,25
+liverpool,Stefan Bajcetic,DM,14
+liverpool,Curtis Jones,CM,15
+liverpool,Thiago,CM,20
+liverpool,Jordan Henderson,CM,3
+liverpool,Alex Oxlade-Chamberlain,CM,25
+liverpool,Naby Keïta,CM,28
+liverpool,James Milner,CM,4
+liverpool,Bobby Clark,CM,10
+liverpool,Jake Cain,CM,6
+liverpool,Harvey Elliott,AM,1
+liverpool,Fábio Carvalho,AM,7
+liverpool,Luis Díaz,LW,21
+liverpool,Diogo Jota,LW,16
+liverpool,Cody Gakpo,LW,1
+liverpool,Mohamed Salah,RW,0
+liverpool,Ben Doak,RW,12
+liverpool,Melkamu Frauendorf,RW,13
+liverpool,Darwin Núñez,CF,6
+liverpool,Roberto Firmino,CF,13
+liverpool,Layton Stewart,CF,18
+Brighton,Robert Sánchez,GK,5
+Brighton,Jason Steele,GK,1
+Brighton,Tom McGill,GK,28
+Brighton,Levi Colwill,CB,9
+Brighton,Adam Webster,CB,7
+Brighton,Jan Paul van Hecke,CB,5
+Brighton,Lewis Dunk,CB,0
+Brighton,Antef Tsoungui,CB,22
+Brighton,Ed Turns,CB,7
+Brighton,Odel Offiah,CB,21
+Brighton,Pervis Estupiñán,LB,0
+Brighton,Haydon Roberts,LB,0
+Brighton,James Furlong,LB,9
+Brighton,Imari Samuels,LB,15
+Brighton,Tariq Lamptey,RB,15
+Brighton,Joël Veltman,RB,5
+Brighton,Moisés Caicedo,DM,1
+Brighton,Billy Gilmour,DM,3
+Brighton,Jack Hinshelwood,DM,12
+Brighton,Alexis Mac Allister,CM,3
+Brighton,Jakub Moder,CM,38
+Brighton,Pascal Groß,CM,1
+Brighton,Yasin Ayari,CM,4
+Brighton,Steven Alzate,CM,1
+Brighton,Taylor Richards,CM,0
+Brighton,Jack Hinchy,CM,23
+Brighton,Enock Mwepu,CM,2
+Brighton,Jack Spong,CM,11
+Brighton,Julio Enciso,AM,7
+Brighton,Facundo Buonanotte,AM,2
+Brighton,Jeremy Sarmiento,AM,18
+Brighton,Andy Moran,AM,9
+Brighton,Adam Lallana,AM,22
+Brighton,Cameron Peupion,AM,12
+Brighton,Kaoru Mitoma,LW,3
+Brighton,Leandro Trossard,LW,1
+Brighton,Solly March,RW,5
+Brighton,Evan Ferguson,CF,11
+Brighton,Deniz Undav,CF,2
+Brighton,Neal Maupay,CF,1
+Brighton,Danny Welbeck,CF,6
+Brighton,Aaron Connolly,CF,0
+Aston Villa,Emiliano Martínez,GK,1
+Aston Villa,Robin Olsen,GK,4
+Aston Villa,Filip Marschall,GK,9
+Aston Villa,Viljami Sinisalo,GK,4
+Aston Villa,Jed Steer,GK,38
+Aston Villa,Oliwier Zych,GK,26
+Aston Villa,James Wright,GK,15
+Aston Villa,Ezri Konsa,CB,0
+Aston Villa,Tyrone Mings,CB,2
+Aston Villa,Diego Carlos,CB,24
+Aston Villa,Jan Bednarek,CB,2
+Aston Villa,Calum Chambers,CB,2
+Aston Villa,Kortney Hause,CB,3
+Aston Villa,Josh Feeney,CB,18
+Aston Villa,Sil Swinkels,CB,30
+Aston Villa,Lucas Digne,LB,6
+Aston Villa,Álex Moreno,LB,1
+Aston Villa,Ludwig Augustinsson,LB,8
+Aston Villa,Ashley Young,LB,0
+Aston Villa,Sebastian Revan,LB,14
+Aston Villa,Travis Patterson,LB,31
+Aston Villa,Matty Cash,RB,11
+Aston Villa,Boubacar Kamara,DM,14
+Aston Villa,Leander Dendoncker,DM,5
+Aston Villa,Marvelous Nakamba,DM,11
+Aston Villa,Lamare Bogarde,DM,15
+Aston Villa,Douglas Luiz,CM,0
+Aston Villa,John McGinn,CM,3
+Aston Villa,Morgan Sanson,CM,7
+Aston Villa,Tim Iroegbunam,CM,2
+Aston Villa,Jacob Ramsey,AM,3
+Aston Villa,Philippe Coutinho,AM,16
+Aston Villa,Tommi O'Reilly,AM,23
+Aston Villa,Leon Bailey,LW,5
+Aston Villa,Jaden Philogene,LW,0
+Aston Villa,Kadan Young,LW,19
+Aston Villa,Emiliano Buendía,RW,0
+Aston Villa,Bertrand Traoré,RW,5
+Aston Villa,Ollie Watkins,CF,1
+Aston Villa,Cameron Archer,CF,4
+Aston Villa,Jhon Durán,CF,1
+Aston Villa,Danny Ings,CF,0
+Aston Villa,Keinan Davis,CF,1
+Nottingham Forest,Dean Henderson,GK,20
+Nottingham Forest,Keylor Navas,GK,1
+Nottingham Forest,Wayne Hennessey,GK,1
+Nottingham Forest,Adnan Kanuric,GK,10
+Nottingham Forest,Jordan Smith,GK,17
+Nottingham Forest,George Shelvey,GK,27
+Nottingham Forest,Moussa Niakhaté,CB,23
+Nottingham Forest,Joe Worrall,CB,0
+Nottingham Forest,Scott McKenna,CB,13
+Nottingham Forest,Loïc Badé,CB,9
+Nottingham Forest,Giulian Biancone,CB,28
+Nottingham Forest,Willy Boly,CB,13
+Nottingham Forest,Loïc Mbe Soh,CB,12
+Nottingham Forest,Felipe,CB,1
+Nottingham Forest,Jonathan Panzo,CB,0
+Nottingham Forest,Steve Cook,CB,19
+Nottingham Forest,Aaron Donnelly,CB,12
+Nottingham Forest,Zach Abbott,CB,17
+Nottingham Forest,Renan Lodi,LB,4
+Nottingham Forest,Harry Toffolo,LB,9
+Nottingham Forest,Omar Richards,LB,38
+Nottingham Forest,Neco Williams,RB,5
+Nottingham Forest,Serge Aurier,RB,8
+Nottingham Forest,Cheikhou Kouyaté,DM,15
+Nottingham Forest,Jack Colback,DM,20
+Nottingham Forest,Danilo,CM,3
+Nottingham Forest,Orel Mangala,CM,5
+Nottingham Forest,Ryan Yates,CM,12
+Nottingham Forest,Remo Freuler,CM,1
+Nottingham Forest,Lewis O'Brien,CM,12
+Nottingham Forest,Jonjo Shelvey,CM,8
+Nottingham Forest,Harry Arter,CM,38
+Nottingham Forest,Cafú,CM,36
+Nottingham Forest,Oliver Hammond,CM,17
+Nottingham Forest,Billy Fewster,CM,10
+Nottingham Forest,Alex Gibson-Hammond,RM,15
+Nottingham Forest,Morgan Gibbs-White,AM,1
+Nottingham Forest,Jesse Lingard,AM,9
+Nottingham Forest,Gustavo Scarpa,AM,13
+Nottingham Forest,Emmanuel Dennis,LW,6
+Nottingham Forest,André Ayew,LW,0
+Nottingham Forest,Alex Mighten,LW,14
+Nottingham Forest,Brennan Johnson,RW,0
+Nottingham Forest,Josh Bowler,RW,1
+Nottingham Forest,Taiwo Awoniyi,CF,9
+Nottingham Forest,Chris Wood,CF,12
+Nottingham Forest,Sam Surridge,CF,2
+Nottingham Forest,Dale Taylor,CF,9
+Nottingham Forest,Lyle Taylor,CF,35
+Nottingham Forest,Detlef Esapa Osong,CF,0
+Everton,Jordan Pickford,GK,1
+Everton,Asmir Begovic,GK,0
+Everton,Eldin Jakupovic,GK,13
+Everton,Andy Lonergan,GK,34
+Everton,James Tarkowski,CB,0
+Everton,Ben Godfrey,CB,20
+Everton,Michael Keane,CB,6
+Everton,Mason Holgate,CB,10
+Everton,Conor Coady,CB,2
+Everton,Yerry Mina,CB,14
+Everton,Reece Welch,CB,8
+Everton,Vitaliy Mykolenko,LB,4
+Everton,Rúben Vinagre,LB,17
+Everton,Ishé Samuels-Smith,LB,9
+Everton,Nathan Patterson,RB,15
+Everton,Seamus Coleman,RB,7
+Everton,Kyle John,RB,17
+Everton,Amadou Onana,DM,3
+Everton,James Garner,DM,11
+Everton,Allan,DM,2
+Everton,Jean-Philippe Gbamin,DM,1
+Everton,Abdoulaye Doucouré,CM,9
+Everton,André Gomes,CM,4
+Everton,Tom Davies,CM,4
+Everton,Idrissa Gueye,CM,0
+Everton,Isaac Price,CM,9
+Everton,Lewis Warrington,CM,0
+Everton,Alex Iwobi,AM,0
+Everton,Dele Alli,AM,0
+Everton,Sean McAllister,AM,15
+Everton,Anthony Gordon,LW,2
+Everton,Dwight McNeil,LW,0
+Everton,Demarai Gray,LW,0
+Everton,Andros Townsend,RW,37
+Everton,Stanley Mills,RW,14
+Everton,Dominic Calvert-Lewin,CF,21
+Everton,Neal Maupay,CF,2
+Everton,Ellis Simms,CF,0
+Everton,Thomas Cannon,CF,1
+Everton,Salomón Rondón,CF,8
+Leicester City,Daniel Iversen,GK,0
+Leicester City,Danny Ward,GK,3
+Leicester City,Alex Smithies,GK,34
+Leicester City,Wesley Fofana,CB,2
+Leicester City,Wout Faes,CB,3
+Leicester City,Çağlar Söyüncü,CB,16
+Leicester City,Harry Souttar,CB,0
+Leicester City,Daniel Amartey,CB,3
+Leicester City,Jannik Vestergaard,CB,29
+Leicester City,Jonny Evans,CB,22
+Leicester City,Lewis Brunt,CB,12
+Leicester City,Victor Kristiansen,LB,5
+Leicester City,Luke Thomas,LB,2
+Leicester City,Ryan Bertrand,LB,38
+Leicester City,Timothy Castagne,RB,0
+Leicester City,James Justin,RB,24
+Leicester City,Ricardo Pereira,RB,26
+Leicester City,Joe Wormleighton,RB,14
+Leicester City,Wilfred Ndidi,DM,7
+Leicester City,Boubakary Soumaré,DM,9
+Leicester City,Hamza Choudhury,DM,1
+Leicester City,Nampalys Mendy,DM,5
+Leicester City,Sammy Braybrooke,DM,23
+Leicester City,Kiernan Dewsbury-Hall,CM,5
+Leicester City,Youri Tielemans,CM,6
+Leicester City,Dennis Praet,CM,4
+Leicester City,Marc Albrighton,RM,1
+Leicester City,James Maddison,AM,8
+Leicester City,Will Alves,AM,24
+Leicester City,Harvey Barnes,LW,4
+Leicester City,Ayoze Pérez,LW,2
+Leicester City,Tetê,RW,0
+Leicester City,Kasey McAteer,RW,5
+Leicester City,Wanya Marçal,RW,19
+Leicester City,Patson Daka,CF,1
+Leicester City,Kelechi Iheanacho,CF,3
+Leicester City,George Hirst,CF,3
+Leicester City,Jamie Vardy,CF,0
+Leeds United,Illan Meslier,GK,0
+Leeds United,Kristoffer Klaesson,GK,24
+Leeds United,Joel Robles,GK,8
+Leeds United,Dani van den Heuvel,GK,27
+Leeds United,Robin Koch,CB,1
+Leeds United,Pascal Struijk,CB,4
+Leeds United,Maximilian Wöber,CB,5
+Leeds United,Diego Llorente,CB,0
+Leeds United,Charlie Cresswell,CB,0
+Leeds United,Liam Cooper,CB,13
+Leeds United,Diogo Monteiro,CB,8
+Leeds United,Jeremiah Chilokoa-Mullen,CB,18
+Leeds United,Kris Moore,CB,13
+Leeds United,James Debayo,CB,13
+Leeds United,Junior Firpo,LB,8
+Leeds United,Leo Fuhr Hjelde,LB,10
+Leeds United,Rasmus Kristensen,RB,1
+Leeds United,Cody Drameh,RB,4
+Leeds United,Jamie Shackleton,RB,0
+Leeds United,Luke Ayling,RB,5
+Leeds United,Stuart Dallas,RB,38
+Leeds United,Tyler Adams,DM,14
+Leeds United,Marc Roca,DM,3
+Leeds United,Weston McKennie,CM,0
+Leeds United,Archie Gray,CM,23
+Leeds United,Mateusz Klich,CM,3
+Leeds United,Darko Gyabi,CM,7
+Leeds United,Adam Forshaw,CM,22
+Leeds United,Alfie McCalmont,CM,8
+Leeds United,Charlie Allen,CM,13
+Leeds United,Joe Snowdon,CM,27
+Leeds United,Brenden Aaronson,AM,0
+Leeds United,Sam Greenwood,AM,2
+Leeds United,Luis Sinisterra,LW,18
+Leeds United,Wilfried Gnonto,LW,3
+Leeds United,Daniel James,LW,0
+Leeds United,Amari Miller,LW,27
+Leeds United,Jack Harrison,RW,1
+Leeds United,Crysencio Summerville,RW,2
+Leeds United,Ian Poveda,RW,3
+Leeds United,Georginio Rutter,CF,0
+Leeds United,Rodrigo,CF,7
+Leeds United,Patrick Bamford,CF,10
+Leeds United,Joe Gelhardt,CF,1
+Leeds United,Tyler Roberts,CF,0
+Leeds United,Mateo Joseph,CF,8
+Leeds United,Sonny Perkins,CF,13
+southampton,Gavin Bazunu,GK,0
+southampton,Alex McCarthy,GK,10
+southampton,Willy Caballero,GK,27
+southampton,Armel Bella-Kotchap,CB,12
+southampton,Mohammed Salisu,CB,12
+southampton,Jan Bednarek,CB,0
+southampton,Duje Caleta-Car,CB,6
+southampton,Lyanco,CB,9
+southampton,Jack Stephens,CB,3
+southampton,Dynel Simeu,CB,1
+southampton,Nico Lawrence,CB,4
+southampton,Romain Perraud,LB,7
+southampton,Juan Larios,LB,24
+southampton,Tino Livramento,RB,35
+southampton,Kyle Walker-Peters,RB,6
+southampton,James Bree,RB,9
+southampton,Yan Valery,RB,0
+southampton,Lewis Payne,RB,14
+southampton,Roméo Lavia,DM,8
+southampton,Ibrahima Diallo,DM,8
+southampton,Oriol Romeu,DM,1
+southampton,James Ward-Prowse,CM,0
+southampton,Carlos Alcaraz,CM,0
+southampton,Joe Aribo,CM,8
+southampton,Will Smallbone,CM,0
+southampton,Stuart Armstrong,CM,3
+southampton,Ryan Finnigan,CM,6
+southampton,Ainsley Maitland-Niles,RM,6
+southampton,Diamond Edwards,AM,32
+southampton,Kamari Doyle,AM,16
+southampton,Kamaldeen Sulemana,LW,0
+southampton,Samuel Edozie,LW,10
+southampton,Mohamed Elyounoussi,LW,1
+southampton,Moussa Djenepo,LW,12
+southampton,Mislav Orsic,LW,16
+southampton,Nathan Tella,RW,1
+southampton,Nathan Redmond,RW,5
+southampton,Samuel Amo-Ameyaw,RW,12
+southampton,Theo Walcott,RW,9
+southampton,Adam Armstrong,CF,3
+southampton,Ché Adams,CF,9
+southampton,Paul Onuachu,CF,3
+southampton,Sékou Mara,CF,5
+southampton,Dan Nlundulu,CF,0
+southampton,Dom Ballard,CF,12
+southampton,Jimmy-Jay Morgan,CF,5
