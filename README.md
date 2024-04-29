@@ -1,10 +1,3 @@
-# Team Pressing in Premier league
+Football, a universally loved sport, is more than just entertainment; it offers excitement, strategy, and unity. One such strategy, pressing, has gained attention for its impact on team dynamics, performance, and player health. This project aims to delve into the world of pressing in football, exploring its theory and analyzing its effects on injuries and performance. While smaller teams may hesitate to adopt pressing due to resource constraints and strategic risks, big teams utilize it extensively, evident in their league dominance. The analysis focuses on the contribution of pressing to team success, examining factors such as expected goals, defensive security, and goalkeeper statistics. By studying how various Premier League teams employ pressing, this research aims to provide insights into its role in shaping the game. Topics of interest include its impact on injuries, offensive and defensive performance, and overall league standing.
 
-The Premier League is the top level of the English football league system. It is contested by 20 clubs and operates on a system of promotion and relegation with the English Football League (EFL). The teams in the Premier League are some of the best football teams in the world because the standard of football are the highest among all the leagues in the world
-
-In football, pressing is when pressure is applied on the player or the team that’s in possession. It’s a skill used in all areas of the pitch – to win the ball back, dictate play, or delay the opposition.
-We would like to explore data on the teams in the Premier league to understand the pressing factors that effect the performance of the team during the season.
-
-In this project we first scraped data from the website [Transfermarkt](https://www.transfermarkt.co.uk). The data scraped were all the relevant information regarding teams performance for the season and ranking. this data was collected for the past 20 years. 
-
-detailed information regarding the project can be found on our webpage.
+More details on the [webpage](https://sites.google.com/colorado.edu/team-pressing-in-pl).
