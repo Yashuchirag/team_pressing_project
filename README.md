@@ -1,3 +1,60 @@
-Football, a universally loved sport, is more than just entertainment; it offers excitement, strategy, and unity. One such strategy, pressing, has gained attention for its impact on team dynamics, performance, and player health. This project aims to delve into the world of pressing in football, exploring its theory and analyzing its effects on injuries and performance. While smaller teams may hesitate to adopt pressing due to resource constraints and strategic risks, big teams utilize it extensively, evident in their league dominance. The analysis focuses on the contribution of pressing to team success, examining factors such as expected goals, defensive security, and goalkeeper statistics. By studying how various Premier League teams employ pressing, this research aims to provide insights into its role in shaping the game. Topics of interest include its impact on injuries, offensive and defensive performance, and overall league standing.
+# Team Pressing Analysis
 
-More details on the [webpage](https://sites.google.com/colorado.edu/team-pressing-in-pl).
+This repository contains the **team_pressing.ipynb** notebook, which analyzes soccer team pressing metrics to gain insights into defensive intensity, patterns of ball recovery, and opponent disruption.
+
+## 📂 Project Overview
+The goal of this notebook is to:
+- Load and clean match-event data (e.g., from StatsBomb or similar sources).
+- Quantify pressing actions across teams and players.
+- Visualize key metrics like pressing efficiency, pressure zones, and time-to-press.
+
+## 🛠️ Features
+- **Data Cleaning & Preprocessing:** Handles raw match-event data for accurate analysis.
+- **Exploratory Data Analysis:** Visualizes pressing patterns using heatmaps and possession-based stats.
+- **Custom Metrics:** Calculates pressing intensity (PPDA) and other advanced soccer analytics metrics.
+- **Interactive Visualizations:** Generates plots to highlight team and player performance.
+
+## 📋 Requirements
+To run the notebook, you’ll need:
+
+- Python 3.9+
+- Jupyter Notebook or JupyterLab
+- Common data-science libraries:
+  ```bash
+  pip install pandas numpy matplotlib seaborn scikit-learn
+  ```
+- (Optional) Plotting/visualization:
+  ```bash
+  pip install plotly
+  ```
+
+## 🚀 Usage
+1. Clone this repository:
+   ```bash
+   git clone git@github.com:Yashuchirag/team_pressing_project.git
+   cd team-pressing
+   ```
+2. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+3. Open and run the cells in **team_pressing.ipynb**.
+
+## 📊 Data
+- Input data should be match-event data in CSV/JSON format.
+- Update the notebook’s data-loading cell with the correct path to your dataset.
+
+## 📈 Outputs
+- Pressing intensity charts
+- Heatmaps of defensive actions
+- Team-wise and player-wise pressing statistics
+
+## 🧑‍💻 Author
+- **Chirag Chandrashekar**  
+  [GitHub](https://github.com/Yashuchirag) • [LinkedIn](https://www.linkedin.com/in/chirag-chandrashe-15b965103/)
+- **Viveka Salinamakki**
+  [GitHub](https://github.com/vsg-vsg) • [LinkedIn](https://www.linkedin.com/in/viveka-salinamakki-896387191/)
+- ** Chris Alexander**
+  [GitHub](https://github.com/ChrisAlex2104) • [LinkedIn](https://www.linkedin.com/in/chris-thomas-alexander/)
+
+> ⚽ *This notebook is designed for analysts, data scientists, and football enthusiasts who want to explore and quantify team pressing behaviors.*
