@@ -54,7 +54,7 @@ To run the notebook, you’ll need:
   [GitHub](https://github.com/Yashuchirag) • [LinkedIn](https://www.linkedin.com/in/chirag-chandrashe-15b965103/)
 - **Viveka Salinamakki**
   [GitHub](https://github.com/vsg-vsg) • [LinkedIn](https://www.linkedin.com/in/viveka-salinamakki-896387191/)
-- ** Chris Alexander**
+- **Chris Alexander**
   [GitHub](https://github.com/ChrisAlex2104) • [LinkedIn](https://www.linkedin.com/in/chris-thomas-alexander/)
 
 > ⚽ *This notebook is designed for analysts, data scientists, and football enthusiasts who want to explore and quantify team pressing behaviors.*
